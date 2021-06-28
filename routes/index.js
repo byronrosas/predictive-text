@@ -109,3 +109,4 @@ function comparacion()
 //console.log(datos);
 }
 module.exports = router;
+//fixing opaxity
